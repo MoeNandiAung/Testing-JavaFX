@@ -10,6 +10,7 @@ On the first page, the beating heart can be touched. The second page will be dis
 
 
 ![Screenshot 2](screenshots/ss2.png)
+
 On the Second page, the envelope can be touched. The third page will be displayed
 
 
